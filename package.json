@@ -22,6 +22,8 @@
 		"url": ""
 	},
 	"dependencies": {
-		"axios": "^1.4.0"
+		"axios": "^1.4.0",
+		"chalk": "^5.2.0",
+		"dedent-js": "^1.0.1"
 	}
 }
